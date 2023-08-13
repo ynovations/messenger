@@ -1,3 +1,3 @@
 # README
 
-Simple Messenger App utilizing Websockets
+Simple Messaging App utilizing Websockets
